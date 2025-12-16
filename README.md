@@ -68,13 +68,13 @@ Each model was evaluated using key performance metrics like:
 The project includes visualizations to better understand feature relationships and model performance.
 
 ### 1. Categorical Features Distribution  
-![Categorical Features Distribution](./Graphical_results_House_pred/Categorical_features_Distribution.png)
+![Categorical Features Distribution](./Results_House_pred/Categorical_features_Distribution.png)
 
 ### 2. Correlation Matrix  
-![Correlation Matrix](./Graphical_results_House_pred/Correlation_Matrix.png)
+![Correlation Matrix](./Graphical_Results_House_pred/Correlation_Matrix.png)
 
 ### 3. Model Comparison  
-![Model Comparison](./Graphical_results_House_pred/Model_comparision.png)
+![Model Comparison](./Graphical_Results_House_pred/Model_comparision.png)
 
 ##  Key Insights
 
